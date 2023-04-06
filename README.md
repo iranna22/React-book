@@ -1,3 +1,8 @@
+Book Management App - built with Reactjs
+
+Live Demo of App: (https://main--lucky-dango-b38ae5.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
